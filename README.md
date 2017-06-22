@@ -5,5 +5,5 @@ This is a simple Aircrack-ng script it will crack your WPA .cap files with the u
 
 Only supports linux for now and is probably very faulty and inefficient, please feel free to contribute to this simple project
 
-To run → python script.py
+To run → python script.py | 
 if errors occur please install pyton 3.x.x and run wih → python3 script.py

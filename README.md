@@ -1,4 +1,4 @@
-# Automated-Aircrack
+# WPA Cracking With Crunch
 A simple python Aircrack automation script
 
 This is a simple Aircrack-ng script it will crack your WPA .cap files with the use of crunch, simply follow the instructions and voila

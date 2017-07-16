@@ -12,3 +12,6 @@ Only supports linux for now and is probably very faulty and inefficient, please 
 
 # Dependencies
 > If needed run sudo apt-get install aircrack-ng crunch
+
+# Disclaimer
+As always I'm not responsible for your actions
